@@ -1,5 +1,5 @@
 // Objective - C++ programs using concept of structure
-// WAP in  C++ enter two student detials with n subject marks using array with-in structure
+// WAP in  C++ enter two student details with n subject marks using array with-in structure
 #include<iostream>
 using namespace std;
 
